@@ -1,6 +1,3 @@
-# Capstone_Hacktiv8_Movielens
-Capstone Project Hacktiv8 – Analisis dataset MovieLens untuk klasifikasi rating film (low/mid/high) dan summarization insight menggunakan IBM Granite Models.
-
 # Capstone Project Hacktiv8: MovieLens Rating Classification & Summarization
 
 ## Project Overview
@@ -35,4 +32,4 @@ IBM Granite digunakan untuk:
 ## How to Run
 1. Clone repo:  
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Sherlyfauz/Capstone_Hacktiv8_Movielens
